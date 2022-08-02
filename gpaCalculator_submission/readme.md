@@ -9,7 +9,7 @@
 windows下运行
 
 ```shell
-conda env create -f  .\pachong.yml
+conda env create -f  pachong.yml
 ```
 
 实际上需要的库：
